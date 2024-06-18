@@ -1,0 +1,1 @@
+# This class wil handle the mock up for sending iot data to kafka topic
