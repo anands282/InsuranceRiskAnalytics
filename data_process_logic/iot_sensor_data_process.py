@@ -1,0 +1,1 @@
+# this class will process the iot sensor data from s3 into required schema
